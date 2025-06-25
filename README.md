@@ -205,5 +205,4 @@ post: comment.status = 'Approved'
 ## 任务三——基于调用工作流生成用例图、类图、时序图和ocl合约
 [博客系统设计文档.pdf](https://github.com/user-attachments/files/20907846/default.pdf)
 ### 内容生成
-见下在线链接。or见上传的的文档《扣子空间调用生成用例图类图ocl合约等.pdf》
-https://nf0g8icnyi.feishu.cn/docx/AHDWdJM5koq3XXxLFs0cTSdTnlb?from=from_copylink
+见下在线链接。or见上传的的文档《博客系统设计文档.pdf》
